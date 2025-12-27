@@ -1,4 +1,4 @@
-# Smart Management System (C++)
+# Smart University Management System (C++)
 
 ## 📌 Overview
 The **Smart Management System** is a C++ console-based application that demonstrates **inheritance and access specifiers** using a real-world user hierarchy.  
